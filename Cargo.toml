@@ -1,0 +1,7 @@
+[package]
+name = "rust-blockchain-proto"
+version = "0.1.0"
+authors = ["Edward <err@inbox.lv>"]
+edition = "2018"
+
+[dependencies]
